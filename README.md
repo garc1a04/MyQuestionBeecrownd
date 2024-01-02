@@ -1,1 +1,49 @@
-# Beecrownd-Java-Python-C
+# Beecrowd Questions in:
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+
+My profile no [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/788313)
+
+## Question
+<table border="1" align = "Center">
+    <tr>
+        <td> Questions</td>
+        <td>
+            <img src ="https://education.oracle.com/file/general/p-80-java.png" alt ="Java">
+        </td>
+        <td>
+         <img src ="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt ="Python">
+        </td>
+    </tr>
+    <tr>
+        <td>1001</td>
+        <td>
+            <a href="https://github.com/garc1a04/Beecrownd-Java-Python-C/blob/main/Questions-in-Java/1001.java"> <img src ="https://cdn.icon-icons.com/icons2/2406/PNG/512/eye_visible_hide_hidden_show_icon_145988.png"><a\>
+        </td>
+        <td>
+            <a href=" "> <img src ="https://cdn.icon-icons.com/icons2/2406/PNG/512/eye_slash_visible_hide_hidden_show_icon_145987.png"><a\>
+        </td>
+    </tr>
+    <tr>
+        <td>1002</td>
+        <td> <a href="https://github.com/garc1a04/Beecrownd-Java-Python-C/blob/main/Questions-in-Java/1001.java"> <img src ="https://cdn.icon-icons.com/icons2/2406/PNG/512/eye_visible_hide_hidden_show_icon_145988.png"><a\></td>
+        <td>  <a href="Error"> <img src ="https://cdn.icon-icons.com/icons2/2406/PNG/512/eye_slash_visible_hide_hidden_show_icon_145987.png"><a\></td>
+    </tr>
+</table>
+
+   *TABLE IN PROGRESS*
+## Do you wanna to help ?
+ *if you it found some error or fails, please.*
+
+    Send me a text in: guigarciamonteiro@gmail.com
+
+or
+
+1º- Do a fork this project: https://github.com/garc1a04/Beecrownd-Java-Python-C
+
+2º- place the resolution in the folder correct.   
+
+3º- Do pull request :)   
+
+<div align="Center">
+<i>Thanks for your help or visiting <i><img src="https://media.tenor.com/4j0oG5XcDYkAAAAC/predator-handshake.gif" alt="Adios">
+<div\>
