@@ -39,7 +39,7 @@ My profile no [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/788313)
 
 or
 
-1º- Do a fork this project: https://github.com/garc1a04/Beecrownd-Java-Python-C
+1º- Do a fork this project: https://github.com/garc1a04/Beecrownd-Java-Python
 
 2º- place the resolution in the folder correct.   
 
