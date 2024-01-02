@@ -4,7 +4,7 @@
 My profile no [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/788313)
 
 ## Resolutions 
-<table border="1" width="25%">
+<table border="1" width="150">
     <tr>
         <td> Questions</td>
         <td>
